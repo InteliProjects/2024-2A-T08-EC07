@@ -17,15 +17,20 @@ Prover a classificação quanto às possíveis falhas que podem ser apresentadas
 
 - Grupo 1 - Cross The Line 
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T08-EC07-G01
+  - https://github.com/Inteli-College/2024-2A-T08-EC07-G01
 
 - Grupo 2 - Presgen
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T08-EC07-G02
+  - https://github.com/Inteli-College/2024-2A-T08-EC07-G02
 
 - Grupo 3 - Kafer
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T08-EC07-G03
+  - https://github.com/Inteli-College/2024-2A-T08-EC07-G03
 
 - Grupo 4 - Fillmore
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T08-EC07-G04
+  - https://github.com/Inteli-College/2024-2A-T08-EC07-G04
 
 - Grupo 5 - IT-CROSS
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T08-EC07-G05
+  - https://github.com/Inteli-College/2024-2A-T08-EC07-G05
